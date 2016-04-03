@@ -1,0 +1,158 @@
+<div>
+
+
+
+    <div class="row">
+        <div class="col-sm-12 col-md-2 col-lg-3 ">
+            <div class="block">
+                <div class="inner up text-center" style="vertical-align: middle">^</div>
+                <div class="inner row">
+                    <div class=" col-sm-6 left text-center"><</div>
+                    <div class=" col-sm-6 right text-center">></div>
+                </div>
+                <div class="inner down text-center">v</div>
+            </div>
+
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-6 ">
+
+            <div ng-repeat="(key, value) in projectFiles">
+                <button type="button" aria-expanded="false" class="projectButton btn btn-info collapsed" data-toggle="collapse" data-target="#{{$index}}-project-{{value['newProjectName']}}">{{key}}</button>
+                <div id="{{$index}}-project-{{value['newProjectName']}}" class="collapse">
+                    <p>Project Title : {{key}}</p>
+                    <p>Project Date : {{value["date"]}}</p>
+                    <p>Project Version : {{value["_revision"]}}</p>
+                    <p>Project Summary : {{value["summary"]}}</p>
+
+                    <div class="comment">
+                        <h4>Comment Area:</h4>
+                        <div  ng-repeat="comment in comments[key]">
+                            <p class="commentDiv">{{comment["name"]}} {{comment["reply"]}} : {{comment["content"]}}</p>
+                        </div>
+                        <button type="button" ng-click="clickComment(key)" data-toggle="modal" data-target="#comment" style="margin-bottom: 5px" class="btn btn-warning">Make a comment</button>
+                    </div>
+
+
+                    <div ng-repeat="(key2, value2) in value['files']">
+                        <button type="button" aria-expanded="false" class="fileButton btn btn-success collapsed" data-toggle="collapse" data-target="#{{$index}}-files-{{value2['newFileName']}}">File Name : {{key2}}</button>
+                        <div id="{{$index}}-files-{{value2['newFileName']}}"  class="collapse">
+                            <p>File Name : {{key2}}</p>
+                            <p>File Size : {{value2["size"]}}</p>
+                            <p>File Type : {{value2["_kind"]}}</p>
+                            <p>File Path : https://subversion.ews.illinois.edu/svn/sp16-cs242/xwang182/{{key2}}</p>
+
+                            <button type="button" ng-click="setURL(key2)" data-toggle="modal" data-target="#modal" style="margin-bottom: 10px" class="btn btn-warning">Open file in iFrame</button>
+
+
+
+                            <div ng-repeat="version in value2['versions']">
+                                <button type="button" aria-expanded="false" class="btn btn-warning collapsed" data-toggle="collapse" data-target="#{{$index}}-version-{{value2['newFileName']}}">Versions</button>
+                                <div id="{{$index}}-version-{{value2['newFileName']}}"  class="collapse">
+                                    <p>Version Number : {{version["_revision"]}}</p>
+                                    <p>Version Author : {{version["author"]}}</p>
+                                    <p>Version Info : {{version["info"]}}</p>
+                                    <p>Version Date : {{version["date"]}}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-sm-12 col-md-2 col-lg-3"> <p class="middlename"></p></div>
+    </div>
+
+
+
+
+    <div id="modal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">{{iframeTitle}}</h4>
+                </div>
+
+                <div id="fileBody" class="modal-body">
+                    <!--<iframe id="myFrame" ng-src="{{customUrl}}"></iframe>-->
+                    {{fileData}}
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="comment" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" id="commentTitle"></h4>
+                </div>
+
+                <div class="modal-body">
+                    <form role="form">
+                      <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="name" class="form-control" id="name">
+                      </div>
+                      <div class="form-group">
+                        <label for="reply">Reply:</label>
+                        <input type="reply" class="form-control" id="reply">
+                      </div>
+                      <div class="form-group">
+                        <label for="content">Content:</label>
+                        <textarea class="form-control" rows="5" id="content"></textarea>
+                      </div>
+                    </form>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" ng-click="submitComment()" class="btn btn-info" data-dismiss="modal">Submit</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+<script>
+$( ".right" ).click(function() {
+  $( ".block" ).animate({ "left": "+=50px" }, "slow" );
+});
+
+$( ".left" ).click(function(){
+  $( ".block" ).animate({ "left": "-=50px" }, "slow" );
+});
+
+$( ".up" ).click(function() {
+  $( ".block" ).animate({ "top": "-=50px" }, "slow" );
+});
+
+$( ".down" ).click(function() {
+  $( ".block" ).animate({ "top": "+=50px" }, "slow" );
+});
+
+$(".block").keypress(function(e) {
+  if(e.charCode == 39) {
+      $( ".block" ).animate({ "top": "+=50px" }, "slow" );
+  }
+  if(e.charCode == 37) {
+      $( ".block" ).animate({ "top": "-=50px" }, "slow" );
+  }  if(e.charCode == 36) {
+      $( ".block" ).animate({ "left": "+=50px" }, "slow" );
+  }  if(e.charCode == 38) {
+      $( ".block" ).animate({ "left": "-=50px" }, "slow" );
+  }
+});
+
+</script>

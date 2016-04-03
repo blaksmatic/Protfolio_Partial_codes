@@ -1,0 +1,5517 @@
+{
+  "lists": {
+    "list": {
+      "-path": "https://subversion.ews.illinois.edu/svn/sp16-cs242/yzeng19",
+      "entry": [
+        {
+          "-kind": "dir",
+          "name": "Assignment0",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/.classpath",
+          "size": "379",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/.project",
+          "size": "362",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/.settings",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/.settings/org.eclipse.jdt.core.prefs",
+          "size": "617",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/Battleship.txt",
+          "size": "137",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/COPYING",
+          "size": "18011",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/bin",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/bin/Battleship",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/AIset.class",
+          "size": "5938",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/Battle.class",
+          "size": "4935",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/BattleTest.class",
+          "size": "1884",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/Game.class",
+          "size": "2584",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/Ship.class",
+          "size": "5342",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/Battleship/Test.class",
+          "size": "259",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/bin/lanSimulation",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/LANSimulation.class",
+          "size": "4436",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/Network.class",
+          "size": "7231",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/bin/lanSimulation/internals",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/internals/Node.class",
+          "size": "2988",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/internals/Packet.class",
+          "size": "717",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/bin/lanSimulation/tests",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class",
+          "size": "1082",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/bin/lanSimulation/tests/LANTests.class",
+          "size": "9669",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/doc",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/doc/LANSimulationDocument.pdf",
+          "size": "36375",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/doc/README",
+          "size": "1230",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/doc/RefactoringAssignment.pdf",
+          "size": "139491",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/doc/toDoList",
+          "size": "1772",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/expectedOutput.txt",
+          "size": "2980",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/javadoc.xml",
+          "size": "393",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/src",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/src/Battleship",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/AIset.java",
+          "size": "9473",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/Battle.java",
+          "size": "5783",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/BattleTest.java",
+          "size": "1367",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/Game.java",
+          "size": "2527",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/Ship.java",
+          "size": "8074",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/Battleship/Test.java",
+          "size": "367",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/src/lanSimulation",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/lanSimulation/LANSimulation.java",
+          "size": "5769",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/lanSimulation/Network.java",
+          "size": "11823",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/src/lanSimulation/internals",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/lanSimulation/internals/Node.java",
+          "size": "4165",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/lanSimulation/internals/Packet.java",
+          "size": "1828",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment0/src/lanSimulation/tests",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/src/lanSimulation/tests/LANTests.java",
+          "size": "10293",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment0/useOutput.txt",
+          "size": "2995",
+          "commit": {
+            "-revision": "1288",
+            "author": "yzeng19",
+            "date": "2016-01-28T04:24:36.322503Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/.idea",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/compiler.xml",
+          "size": "686",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/.idea/copyright",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/copyright/profiles_settings.xml",
+          "size": "74",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/misc.xml",
+          "size": "2864",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/modules.xml",
+          "size": "266",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/uiDesigner.xml",
+          "size": "8792",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/vcs.xml",
+          "size": "167",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/.idea/workspace.xml",
+          "size": "84252",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/Assignment1.0.iml",
+          "size": "1653",
+          "commit": {
+            "-revision": "3133",
+            "author": "yzeng19",
+            "date": "2016-02-03T04:54:32.155656Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/src",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/src/BoardAndGame",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/BoardAndGame/Board.java",
+          "size": "14132",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/BoardAndGame/ChessGame.java",
+          "size": "395",
+          "commit": {
+            "-revision": "3179",
+            "author": "yzeng19",
+            "date": "2016-02-03T20:49:03.319892Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/BoardAndGame/Square.java",
+          "size": "846",
+          "commit": {
+            "-revision": "3321",
+            "author": "yzeng19",
+            "date": "2016-02-04T07:37:12.578475Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/src/ChessPieces",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Bishop.java",
+          "size": "412",
+          "commit": {
+            "-revision": "3123",
+            "author": "yzeng19",
+            "date": "2016-02-03T03:40:39.974033Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/ChessPiece.java",
+          "size": "785",
+          "commit": {
+            "-revision": "2964",
+            "author": "yzeng19",
+            "date": "2016-02-01T22:04:40.392250Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Color.java",
+          "size": "511",
+          "commit": {
+            "-revision": "3123",
+            "author": "yzeng19",
+            "date": "2016-02-03T03:40:39.974033Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/King.java",
+          "size": "895",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Knight.java",
+          "size": "366",
+          "commit": {
+            "-revision": "3133",
+            "author": "yzeng19",
+            "date": "2016-02-03T04:54:32.155656Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Location.java",
+          "size": "405",
+          "commit": {
+            "-revision": "2974",
+            "author": "yzeng19",
+            "date": "2016-02-01T22:47:05.881678Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Movement.java",
+          "size": "3040",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Pawn.java",
+          "size": "1722",
+          "commit": {
+            "-revision": "3250",
+            "author": "yzeng19",
+            "date": "2016-02-04T03:15:43.744994Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Queen.java",
+          "size": "396",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/ChessPieces/Rook.java",
+          "size": "334",
+          "commit": {
+            "-revision": "2946",
+            "author": "yzeng19",
+            "date": "2016-02-01T19:40:22.990831Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.0/src/Test",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/BishopTest.java",
+          "size": "719",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/BoardTest.java",
+          "size": "7727",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/KingTest.java",
+          "size": "624",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/KnightTest.java",
+          "size": "586",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/PawnTest.java",
+          "size": "984",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/QueenTest.java",
+          "size": "748",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.0/src/Test/RookTest.java",
+          "size": "207",
+          "commit": {
+            "-revision": "3423",
+            "author": "yzeng19",
+            "date": "2016-02-04T16:50:11.159682Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/.idea",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/compiler.xml",
+          "size": "686",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/.idea/copyright",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/copyright/profiles_settings.xml",
+          "size": "74",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/.idea/inspectionProfiles",
+          "commit": {
+            "-revision": "4507",
+            "author": "yzeng19",
+            "date": "2016-02-11T02:57:30.379497Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/inspectionProfiles/Project_Default.xml",
+          "size": "1447",
+          "commit": {
+            "-revision": "4507",
+            "author": "yzeng19",
+            "date": "2016-02-11T02:57:30.379497Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/inspectionProfiles/profiles_settings.xml",
+          "size": "235",
+          "commit": {
+            "-revision": "4507",
+            "author": "yzeng19",
+            "date": "2016-02-11T02:57:30.379497Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/.idea/libraries",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/libraries/lib.xml",
+          "size": "261",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/misc.xml",
+          "size": "3512",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/modules.xml",
+          "size": "266",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/uiDesigner.xml",
+          "size": "8792",
+          "commit": {
+            "-revision": "4109",
+            "author": "yzeng19",
+            "date": "2016-02-08T16:34:40.016572Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/vcs.xml",
+          "size": "167",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/.idea/workspace.xml",
+          "size": "69282",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Assignment1.1.iml",
+          "size": "1653",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/GUITest Plans.pages",
+          "size": "450218",
+          "commit": {
+            "-revision": "4720",
+            "author": "yzeng19",
+            "date": "2016-02-11T15:49:24.616493Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/GUITest Plans.pdf",
+          "size": "133175",
+          "commit": {
+            "-revision": "4720",
+            "author": "yzeng19",
+            "date": "2016-02-11T15:49:24.616493Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/Pictures",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_bdt45.svg.png",
+          "size": "790",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_kdt45.svg.png",
+          "size": "1699",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_ndt45.svg.png",
+          "size": "1124",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_nlt45.svg.png",
+          "size": "1325",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_qdt45.svg.png",
+          "size": "1632",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_qlt45.svg.png",
+          "size": "2057",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/45px-Chess_rdt45.svg.png",
+          "size": "417",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/Chess_blt45.svg.png",
+          "size": "1396",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/Chess_klt45.svg.png",
+          "size": "1627",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/Chess_pdt45.svg.png",
+          "size": "526",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/Chess_plt45.svg.png",
+          "size": "878",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/Pictures/Chess_rlt45.svg.png",
+          "size": "625",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/doxygen_log.txt",
+          "size": "12883",
+          "commit": {
+            "-revision": "4109",
+            "author": "yzeng19",
+            "date": "2016-02-08T16:34:40.016572Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/lib",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/lib/jcommander.jar",
+          "size": "55585",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/lib/testng.jar",
+          "size": "1787145",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/out",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/out/production",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/src",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/src/BoardAndGame",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/BoardAndGame/Board.java",
+          "size": "15085",
+          "commit": {
+            "-revision": "4720",
+            "author": "yzeng19",
+            "date": "2016-02-11T15:49:24.616493Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/BoardAndGame/BoardTest.java",
+          "size": "9071",
+          "commit": {
+            "-revision": "4720",
+            "author": "yzeng19",
+            "date": "2016-02-11T15:49:24.616493Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/BoardAndGame/ChessGame.java",
+          "size": "673",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/BoardAndGame/GUIBoard.java",
+          "size": "7814",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/BoardAndGame/Square.java",
+          "size": "846",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/src/ChessPieces",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Bishop.java",
+          "size": "412",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/ChessJ.java",
+          "size": "506",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/ChessK.java",
+          "size": "616",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/ChessPiece.java",
+          "size": "785",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Color.java",
+          "size": "511",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/King.java",
+          "size": "896",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Knight.java",
+          "size": "366",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Location.java",
+          "size": "405",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Movement.java",
+          "size": "2521",
+          "commit": {
+            "-revision": "4109",
+            "author": "yzeng19",
+            "date": "2016-02-08T16:34:40.016572Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Pawn.java",
+          "size": "1722",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Queen.java",
+          "size": "396",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/ChessPieces/Rook.java",
+          "size": "334",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.1/src/Test",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/BishopTest.java",
+          "size": "719",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/ChessJTest.java",
+          "size": "510",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/ChessKTest.java",
+          "size": "355",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/GUIBoardTest.java",
+          "size": "206",
+          "commit": {
+            "-revision": "4507",
+            "author": "yzeng19",
+            "date": "2016-02-11T02:57:30.379497Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/KingTest.java",
+          "size": "623",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/KnightTest.java",
+          "size": "586",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/PawnTest.java",
+          "size": "984",
+          "commit": {
+            "-revision": "4382",
+            "author": "yzeng19",
+            "date": "2016-02-10T06:33:14.853769Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/QueenTest.java",
+          "size": "748",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.1/src/Test/RookTest.java",
+          "size": "207",
+          "commit": {
+            "-revision": "4076",
+            "author": "yzeng19",
+            "date": "2016-02-08T02:16:14.385868Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/.idea",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/compiler.xml",
+          "size": "686",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/.idea/copyright",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/copyright/profiles_settings.xml",
+          "size": "74",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/.idea/inspectionProfiles",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/inspectionProfiles/Project_Default.xml",
+          "size": "1447",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/inspectionProfiles/profiles_settings.xml",
+          "size": "235",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/.idea/libraries",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/libraries/lib.xml",
+          "size": "261",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/misc.xml",
+          "size": "3512",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/modules.xml",
+          "size": "266",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/uiDesigner.xml",
+          "size": "8792",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/vcs.xml",
+          "size": "167",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/.idea/workspace.xml",
+          "size": "71181",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Assignment1.2.iml",
+          "size": "1653",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/GUITest Plans.pages",
+          "size": "450218",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/GUITest Plans.pdf",
+          "size": "133175",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Manually test plan.pdf",
+          "size": "301685",
+          "commit": {
+            "-revision": "5984",
+            "author": "yzeng19",
+            "date": "2016-02-18T10:46:00.055638Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/Pictures",
+          "commit": {
+            "-revision": "5860",
+            "author": "yzeng19",
+            "date": "2016-02-18T01:45:37.347380Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_bdt45.svg.png",
+          "size": "790",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_kdt45.svg.png",
+          "size": "1699",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_ndt45.svg.png",
+          "size": "1124",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_nlt45.svg.png",
+          "size": "1325",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_qdt45.svg.png",
+          "size": "1632",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_qlt45.svg.png",
+          "size": "2057",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/45px-Chess_rdt45.svg.png",
+          "size": "417",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/ChessJB.png",
+          "size": "20594",
+          "commit": {
+            "-revision": "5860",
+            "author": "yzeng19",
+            "date": "2016-02-18T01:45:37.347380Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/ChessJW.png",
+          "size": "20329",
+          "commit": {
+            "-revision": "5860",
+            "author": "yzeng19",
+            "date": "2016-02-18T01:45:37.347380Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/ChessKB.png",
+          "size": "20249",
+          "commit": {
+            "-revision": "5860",
+            "author": "yzeng19",
+            "date": "2016-02-18T01:45:37.347380Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/ChessKW.png",
+          "size": "20298",
+          "commit": {
+            "-revision": "5860",
+            "author": "yzeng19",
+            "date": "2016-02-18T01:45:37.347380Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/Chess_blt45.svg.png",
+          "size": "1396",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/Chess_klt45.svg.png",
+          "size": "1627",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/Chess_pdt45.svg.png",
+          "size": "526",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/Chess_plt45.svg.png",
+          "size": "878",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/Pictures/Chess_rlt45.svg.png",
+          "size": "625",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/doxygen_log.txt",
+          "size": "12883",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/html",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/annotated.html",
+          "size": "10369",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/arrowdown.png",
+          "size": "246",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/arrowright.png",
+          "size": "229",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/bc_s.png",
+          "size": "676",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/bdwn.png",
+          "size": "147",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_board-members.html",
+          "size": "11771",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_board.html",
+          "size": "17506",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_chess_game-members.html",
+          "size": "4871",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_chess_game.html",
+          "size": "5048",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_square-members.html",
+          "size": "6333",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_board_and_game_1_1_square.html",
+          "size": "7580",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_bishop-members.html",
+          "size": "6802",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_bishop.html",
+          "size": "10783",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_bishop.png",
+          "size": "587",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_chess_piece-members.html",
+          "size": "6532",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_chess_piece.html",
+          "size": "8994",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_chess_piece.png",
+          "size": "1617",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_king-members.html",
+          "size": "7068",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_king.html",
+          "size": "11039",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_king.png",
+          "size": "589",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_knight-members.html",
+          "size": "6802",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_knight.html",
+          "size": "10695",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_knight.png",
+          "size": "604",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_location-members.html",
+          "size": "5411",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_location.html",
+          "size": "6147",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_movement-members.html",
+          "size": "7513",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_movement.html",
+          "size": "11060",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_pawn-members.html",
+          "size": "7658",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_pawn.html",
+          "size": "12056",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_pawn.png",
+          "size": "581",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_queen-members.html",
+          "size": "6788",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_queen.html",
+          "size": "10683",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_queen.png",
+          "size": "590",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_rook-members.html",
+          "size": "6774",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_rook.html",
+          "size": "10671",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_chess_pieces_1_1_rook.png",
+          "size": "572",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_bishop_test-members.html",
+          "size": "4455",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_bishop_test.html",
+          "size": "4981",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_board_test-members.html",
+          "size": "6751",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_board_test.html",
+          "size": "8116",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_king_test-members.html",
+          "size": "4437",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_king_test.html",
+          "size": "4969",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_knight_test-members.html",
+          "size": "4455",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_knight_test.html",
+          "size": "4981",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_pawn_test-members.html",
+          "size": "4435",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_pawn_test.html",
+          "size": "4967",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_queen_test-members.html",
+          "size": "4446",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_queen_test.html",
+          "size": "4975",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_rook_test-members.html",
+          "size": "4437",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/class_test_1_1_rook_test.html",
+          "size": "4969",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/classes.html",
+          "size": "9025",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/closed.png",
+          "size": "132",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/dir_1452bf9b5523ca06dff5c2af147c6e75.html",
+          "size": "3816",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html",
+          "size": "3701",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/dir_d8df8133fd423ab0135c9b11e904375e.html",
+          "size": "3795",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/dir_e32ae7ed17c73a39030440cb502931ff.html",
+          "size": "3819",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/doc.png",
+          "size": "746",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/doxygen.css",
+          "size": "25871",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/doxygen.png",
+          "size": "3779",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/dynsections.js",
+          "size": "3140",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/enum_chess_pieces_1_1_color-members.html",
+          "size": "5642",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/enum_chess_pieces_1_1_color.html",
+          "size": "6521",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/folderclosed.png",
+          "size": "616",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/folderopen.png",
+          "size": "597",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/functions.html",
+          "size": "4323",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/functions_func.html",
+          "size": "4211",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/hierarchy.html",
+          "size": "9783",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/index.html",
+          "size": "3407",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/jquery.js",
+          "size": "146338",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/nav_f.png",
+          "size": "153",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/nav_g.png",
+          "size": "95",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/nav_h.png",
+          "size": "98",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/open.png",
+          "size": "123",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/html/search",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_0.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_0.js",
+          "size": "345",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_1.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_1.js",
+          "size": "423",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_2.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_2.js",
+          "size": "155",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_3.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_3.js",
+          "size": "336",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_4.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_4.js",
+          "size": "109",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_5.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_5.js",
+          "size": "109",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_6.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_6.js",
+          "size": "172",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_7.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_7.js",
+          "size": "178",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_8.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_8.js",
+          "size": "172",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_9.html",
+          "size": "1013",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/all_9.js",
+          "size": "106",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_0.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_0.js",
+          "size": "345",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_1.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_1.js",
+          "size": "291",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_2.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_2.js",
+          "size": "336",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_3.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_3.js",
+          "size": "109",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_4.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_4.js",
+          "size": "109",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_5.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_5.js",
+          "size": "172",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_6.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_6.js",
+          "size": "178",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_7.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_7.js",
+          "size": "172",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_8.html",
+          "size": "1017",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/classes_8.js",
+          "size": "106",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/close.png",
+          "size": "273",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/functions_0.html",
+          "size": "1019",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/functions_0.js",
+          "size": "152",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/functions_1.html",
+          "size": "1019",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/functions_1.js",
+          "size": "155",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/mag_sel.png",
+          "size": "563",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/nomatches.html",
+          "size": "461",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/search.css",
+          "size": "4461",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/search.js",
+          "size": "22125",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/search_l.png",
+          "size": "604",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/search_m.png",
+          "size": "158",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/search_r.png",
+          "size": "612",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/search/searchdata.js",
+          "size": "235",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/splitbar.png",
+          "size": "314",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/sync_off.png",
+          "size": "853",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/sync_on.png",
+          "size": "845",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/tab_a.png",
+          "size": "142",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/tab_b.png",
+          "size": "169",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/tab_h.png",
+          "size": "177",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/tab_s.png",
+          "size": "184",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/html/tabs.css",
+          "size": "1163",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/latex",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/Makefile",
+          "size": "508",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/annotated.tex",
+          "size": "2872",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_board_and_game_1_1_board.tex",
+          "size": "8428",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_board_and_game_1_1_chess_game.tex",
+          "size": "793",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_board_and_game_1_1_square.tex",
+          "size": "2201",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_bishop.eps",
+          "size": "3812",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_bishop.tex",
+          "size": "1352",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_chess_piece.eps",
+          "size": "4321",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_chess_piece.tex",
+          "size": "2666",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_king.eps",
+          "size": "3808",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_king.tex",
+          "size": "1446",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_knight.eps",
+          "size": "3812",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_knight.tex",
+          "size": "1281",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_location.tex",
+          "size": "1339",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_movement.tex",
+          "size": "4489",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_pawn.eps",
+          "size": "3808",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_pawn.tex",
+          "size": "1974",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_queen.eps",
+          "size": "3810",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_queen.tex",
+          "size": "1268",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_rook.eps",
+          "size": "3808",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_chess_pieces_1_1_rook.tex",
+          "size": "1255",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_bishop_test.tex",
+          "size": "701",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_board_test.tex",
+          "size": "2424",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_king_test.tex",
+          "size": "685",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_knight_test.tex",
+          "size": "701",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_pawn_test.tex",
+          "size": "681",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_queen_test.tex",
+          "size": "693",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/class_test_1_1_rook_test.tex",
+          "size": "685",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/dir_1452bf9b5523ca06dff5c2af147c6e75.tex",
+          "size": "308",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex",
+          "size": "266",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/dir_d8df8133fd423ab0135c9b11e904375e.tex",
+          "size": "281",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/dir_e32ae7ed17c73a39030440cb502931ff.tex",
+          "size": "317",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/doxygen.sty",
+          "size": "10440",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/enum_chess_pieces_1_1_color.tex",
+          "size": "1520",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/hierarchy.tex",
+          "size": "2082",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/latex/refman.tex",
+          "size": "4365",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/lib",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/lib/jcommander.jar",
+          "size": "55585",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/lib/testng.jar",
+          "size": "1787145",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out/production",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out/production/Assignment1.1",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/Board.class",
+          "size": "9615",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/BoardTest.class",
+          "size": "5894",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/ChessGame.class",
+          "size": "636",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/GUIBoard$ButtonPressed.class",
+          "size": "1709",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/GUIBoard.class",
+          "size": "6560",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/BoardAndGame/Square.class",
+          "size": "1164",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Bishop.class",
+          "size": "729",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/ChessJ.class",
+          "size": "884",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/ChessK.class",
+          "size": "996",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/ChessPiece.class",
+          "size": "872",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Color.class",
+          "size": "1322",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/King.class",
+          "size": "1073",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Knight.class",
+          "size": "727",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Location.class",
+          "size": "679",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Movement.class",
+          "size": "1967",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Pawn.class",
+          "size": "1492",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Queen.class",
+          "size": "811",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/ChessPieces/Rook.class",
+          "size": "723",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/BishopTest.class",
+          "size": "962",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/ChessJTest.class",
+          "size": "885",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/GUIBoardTest.class",
+          "size": "445",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/KingTest.class",
+          "size": "913",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/KnightTest.class",
+          "size": "905",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/PawnTest.class",
+          "size": "1083",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/QueenTest.class",
+          "size": "966",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/out/production/Assignment1.1/Test/RookTest.class",
+          "size": "439",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/src",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/src/BoardAndGame",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/Board.java",
+          "size": "17646",
+          "commit": {
+            "-revision": "5981",
+            "author": "yzeng19",
+            "date": "2016-02-18T10:06:57.874076Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/BoardTest.java",
+          "size": "8857",
+          "commit": {
+            "-revision": "5954",
+            "author": "yzeng19",
+            "date": "2016-02-18T08:21:48.068866Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/ChessGame.java",
+          "size": "673",
+          "commit": {
+            "-revision": "5699",
+            "author": "yzeng19",
+            "date": "2016-02-17T01:30:45.402922Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/GUIBoard.java",
+          "size": "21747",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/GUIBoardTest.java",
+          "size": "9241",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/BoardAndGame/Square.java",
+          "size": "892",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/src/ChessPieces",
+          "commit": {
+            "-revision": "5924",
+            "author": "yzeng19",
+            "date": "2016-02-18T06:19:57.772161Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Bishop.java",
+          "size": "407",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/ChessJ.java",
+          "size": "501",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/ChessK.java",
+          "size": "611",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Color.java",
+          "size": "511",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/King.java",
+          "size": "891",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Knight.java",
+          "size": "361",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Location.java",
+          "size": "405",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Movement.java",
+          "size": "2521",
+          "commit": {
+            "-revision": "5924",
+            "author": "yzeng19",
+            "date": "2016-02-18T06:19:57.772161Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Pawn.java",
+          "size": "1717",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Piece.java",
+          "size": "751",
+          "commit": {
+            "-revision": "5924",
+            "author": "yzeng19",
+            "date": "2016-02-18T06:19:57.772161Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Queen.java",
+          "size": "391",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/ChessPieces/Rook.java",
+          "size": "329",
+          "commit": {
+            "-revision": "5908",
+            "author": "yzeng19",
+            "date": "2016-02-18T05:28:48.025546Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment1.2/src/Test",
+          "commit": {
+            "-revision": "5981",
+            "author": "yzeng19",
+            "date": "2016-02-18T10:06:57.874076Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/BishopTest.java",
+          "size": "719",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/ChessJTest.java",
+          "size": "510",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/ChessKTest.java",
+          "size": "622",
+          "commit": {
+            "-revision": "5981",
+            "author": "yzeng19",
+            "date": "2016-02-18T10:06:57.874076Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/KingTest.java",
+          "size": "623",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/KnightTest.java",
+          "size": "586",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/PawnTest.java",
+          "size": "984",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/QueenTest.java",
+          "size": "748",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment1.2/src/Test/RookTest.java",
+          "size": "207",
+          "commit": {
+            "-revision": "4736",
+            "author": "yzeng19",
+            "date": "2016-02-11T16:19:10.124850Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/HEAD",
+          "size": "23",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/config",
+          "size": "144",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/description",
+          "size": "73",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/hooks",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/applypatch-msg.sample",
+          "size": "478",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/commit-msg.sample",
+          "size": "896",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/post-update.sample",
+          "size": "189",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/pre-applypatch.sample",
+          "size": "424",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/pre-commit.sample",
+          "size": "1642",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/pre-push.sample",
+          "size": "1348",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/pre-rebase.sample",
+          "size": "4951",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/prepare-commit-msg.sample",
+          "size": "1239",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/hooks/update.sample",
+          "size": "3611",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/info",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.git/info/exclude",
+          "size": "240",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/objects",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/objects/info",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/objects/pack",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/refs",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/refs/heads",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.git/refs/tags",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.idea",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/Assignment2.0.iml",
+          "size": "8137",
+          "commit": {
+            "-revision": "6867",
+            "author": "yzeng19",
+            "date": "2016-02-25T04:12:56.305572Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/misc.xml",
+          "size": "788",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/modules.xml",
+          "size": "278",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/.idea/runConfigurations",
+          "commit": {
+            "-revision": "6867",
+            "author": "yzeng19",
+            "date": "2016-02-25T04:12:56.305572Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/runConfigurations/Run_test__graph_test___Assignment2_0.xml",
+          "size": "1912",
+          "commit": {
+            "-revision": "6867",
+            "author": "yzeng19",
+            "date": "2016-02-25T04:12:56.305572Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/vcs.xml",
+          "size": "180",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/.idea/workspace.xml",
+          "size": "55112",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/data",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/data/map_data.json",
+          "size": "18119",
+          "commit": {
+            "-revision": "6667",
+            "author": "yzeng19",
+            "date": "2016-02-23T03:46:04.688646Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.0/src",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/controller.rb",
+          "size": "1595",
+          "commit": {
+            "-revision": "6909",
+            "author": "yzeng19",
+            "date": "2016-02-25T07:37:43.826090Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/cs_air.rb",
+          "size": "251",
+          "commit": {
+            "-revision": "6891",
+            "author": "yzeng19",
+            "date": "2016-02-25T06:11:49.190046Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/graph.rb",
+          "size": "5209",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/metro.rb",
+          "size": "1042",
+          "commit": {
+            "-revision": "6909",
+            "author": "yzeng19",
+            "date": "2016-02-25T07:37:43.826090Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/tests.rb",
+          "size": "1561",
+          "commit": {
+            "-revision": "6935",
+            "author": "yzeng19",
+            "date": "2016-02-25T14:29:29.336623Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.0/src/view.rb",
+          "size": "1181",
+          "commit": {
+            "-revision": "6909",
+            "author": "yzeng19",
+            "date": "2016-02-25T07:37:43.826090Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1",
+          "commit": {
+            "-revision": "7909",
+            "author": "yzeng19",
+            "date": "2016-03-03T17:25:03.083410Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/HEAD",
+          "size": "23",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/config",
+          "size": "144",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/description",
+          "size": "73",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/hooks",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/applypatch-msg.sample",
+          "size": "478",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/commit-msg.sample",
+          "size": "896",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/post-update.sample",
+          "size": "189",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/pre-applypatch.sample",
+          "size": "424",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/pre-commit.sample",
+          "size": "1642",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/pre-push.sample",
+          "size": "1348",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/pre-rebase.sample",
+          "size": "4951",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/prepare-commit-msg.sample",
+          "size": "1239",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/hooks/update.sample",
+          "size": "3611",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/info",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.git/info/exclude",
+          "size": "240",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/objects",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/objects/info",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/objects/pack",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/refs",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/refs/heads",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.git/refs/tags",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.idea",
+          "commit": {
+            "-revision": "7866",
+            "author": "yzeng19",
+            "date": "2016-03-03T10:25:19.621210Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/Assignment2.0.iml",
+          "size": "8137",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/misc.xml",
+          "size": "1153",
+          "commit": {
+            "-revision": "7584",
+            "author": "yzeng19",
+            "date": "2016-03-01T03:42:20.166247Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/modules.xml",
+          "size": "278",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/.idea/runConfigurations",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/runConfigurations/Run_test__graph_test___Assignment2_0.xml",
+          "size": "1912",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/vcs.xml",
+          "size": "180",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/.idea/workspace.xml",
+          "size": "55785",
+          "commit": {
+            "-revision": "7866",
+            "author": "yzeng19",
+            "date": "2016-03-03T10:25:19.621210Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/data",
+          "commit": {
+            "-revision": "7850",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:04:11.160959Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/data/cmi_hub.json",
+          "size": "1103",
+          "commit": {
+            "-revision": "7850",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:04:11.160959Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/data/map_data.json",
+          "size": "18119",
+          "commit": {
+            "-revision": "7500",
+            "author": "yzeng19",
+            "date": "2016-02-28T22:03:58.626590Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/data/test.json",
+          "size": "1324",
+          "commit": {
+            "-revision": "7850",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:04:11.160959Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment2.1/src",
+          "commit": {
+            "-revision": "7909",
+            "author": "yzeng19",
+            "date": "2016-03-03T17:25:03.083410Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/controller.rb",
+          "size": "8010",
+          "commit": {
+            "-revision": "7909",
+            "author": "yzeng19",
+            "date": "2016-03-03T17:25:03.083410Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/cs_air.rb",
+          "size": "273",
+          "commit": {
+            "-revision": "7850",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:04:11.160959Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/graph.rb",
+          "size": "13482",
+          "commit": {
+            "-revision": "7909",
+            "author": "yzeng19",
+            "date": "2016-03-03T17:25:03.083410Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/metro.rb",
+          "size": "1177",
+          "commit": {
+            "-revision": "7850",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:04:11.160959Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/tests.rb",
+          "size": "17852",
+          "commit": {
+            "-revision": "7866",
+            "author": "yzeng19",
+            "date": "2016-03-03T10:25:19.621210Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment2.1/src/view.rb",
+          "size": "3047",
+          "commit": {
+            "-revision": "7854",
+            "author": "yzeng19",
+            "date": "2016-03-03T09:36:34.828569Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/.idea",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/.name",
+          "size": "13",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/Assignment3.0.iml",
+          "size": "1698",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/.idea/copyright",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/copyright/profiles_settings.xml",
+          "size": "74",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/encodings.xml",
+          "size": "159",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/jsLibraryMappings.xml",
+          "size": "411",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/.idea/libraries",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/libraries/Assignment3_0_node_modules.xml",
+          "size": "421",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/libraries/compass_library.xml",
+          "size": "214",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/misc.xml",
+          "size": "774",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/modules.xml",
+          "size": "278",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/php.xml",
+          "size": "281",
+          "commit": {
+            "-revision": "8823",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:41:13.099750Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/vcs.xml",
+          "size": "180",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/watcherTasks.xml",
+          "size": "1100",
+          "commit": {
+            "-revision": "8461",
+            "author": "yzeng19",
+            "date": "2016-03-08T17:14:03.280845Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/.idea/workspace.xml",
+          "size": "48067",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/Procfile",
+          "size": "42",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/partials",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/partials/details.php",
+          "size": "369",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public/css",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/app.css",
+          "size": "0",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/foundation-flex.css",
+          "size": "99731",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/foundation-rtl.css",
+          "size": "86923",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/foundation.css",
+          "size": "86590",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/foundation.min.css",
+          "size": "61182",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/css/hover.css",
+          "size": "125785",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public/data",
+          "commit": {
+            "-revision": "8823",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:41:13.099750Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/data/svn_list_small.xml",
+          "size": "713",
+          "commit": {
+            "-revision": "8823",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:41:13.099750Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/data/svn_log_small.xml",
+          "size": "1553",
+          "commit": {
+            "-revision": "8814",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:57:44.406083Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/index.php",
+          "size": "12789",
+          "commit": {
+            "-revision": "8837",
+            "author": "yzeng19",
+            "date": "2016-03-10T12:52:06.899000Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public/js",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/app.js",
+          "size": "322",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/controller.js",
+          "size": "667",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/foundation.js",
+          "size": "283814",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/foundation.min.js",
+          "size": "103703",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public/js/vendor",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/vendor/jquery.min.js",
+          "size": "84380",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/js/vendor/what-input.min.js",
+          "size": "1593",
+          "commit": {
+            "-revision": "8805",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:18:38.331938Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/parse_all_info.php",
+          "size": "6204",
+          "commit": {
+            "-revision": "8823",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:41:13.099750Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/parse_all_infoTest.php",
+          "size": "430",
+          "commit": {
+            "-revision": "8823",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:41:13.099750Z"
+          }
+        },
+        {
+          "-kind": "dir",
+          "name": "Assignment3.0/public/php_lib",
+          "commit": {
+            "-revision": "8815",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:07:48.331799Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/php_lib/assignment_entry.php",
+          "size": "1066",
+          "commit": {
+            "-revision": "8815",
+            "author": "yzeng19",
+            "date": "2016-03-10T10:07:48.331799Z"
+          }
+        },
+        {
+          "-kind": "file",
+          "name": "Assignment3.0/public/php_lib/log_entry.php",
+          "size": "610",
+          "commit": {
+            "-revision": "8814",
+            "author": "yzeng19",
+            "date": "2016-03-10T09:57:44.406083Z"
+          }
+        }
+      ]
+    }
+  }
+}

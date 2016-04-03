@@ -1,0 +1,39 @@
+.projectButton{
+  width: 100%;
+}
+
+.fileButton{
+  width: 90%;
+  text-align: left;
+}
+
+iframe{
+  width: 100%;
+}
+.commentDiv{
+    border-radius: 10px;
+    border: 3px solid #BADA55;
+    padding-left: 50px;
+}
+.jumbotron{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.block {
+    position: absolute;
+    background-size: 100%;
+    left: 50px;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+
+        z-index: 1;
+}
+
+.inner{
+    height: 30px;
+}
