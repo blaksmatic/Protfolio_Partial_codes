@@ -1,0 +1,12 @@
+{
+  "name": "assignment3.2”,
+  "version": "1.0.0",
+  "description": "protofolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": "public/lib",
+  "author": "blaks",
+  "license": "ISC"
+}

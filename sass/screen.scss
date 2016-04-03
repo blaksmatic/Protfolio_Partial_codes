@@ -1,0 +1,82 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@mixin transition($time) {
+  transition: all $time+s;
+  -moz-transition: all $time+s;
+  -webkit-transition: all $time+s;
+  -o-transition: all $time+s;
+}
+
+@mixin blur($degree) {
+  -webkit-filter: blur($degree+px);
+  filter: blur($degree+px);
+}
+
+body {
+  background: url("../media/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #fefefe;
+}
+
+.button {
+  font-family: Oswald, sans-serif;
+  font-weight: 400;
+}
+
+.fullWidth {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: initial;
+}
+
+.Oswald_type {
+  font-family: Oswald, sans-serif;
+}
+
+.blur {
+  @include blur(0.7);
+}
+
+.assignment_list {
+  font-size: 10pt;
+}
+
+.ng-binding {
+  margin-bottom: 0;
+}
+
+.navbar_desktop {
+  position: fixed;
+}
+
+.media-object {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#About {
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
+
+#nav {
+  margin-bottom: 10%;
+}
+
+.project {
+  margin-bottom: 5%;
+}
+
+a {
+  font-size: 17px;
+  color: green();
+}
+
+.small_head {
+  font-size: 25px;
+  font-weight: 300;
+}

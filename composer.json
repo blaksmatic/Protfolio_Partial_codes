@@ -1,0 +1,12 @@
+{
+    "name": "admin/assignment3.0",
+    "authors": [
+        {
+            "name": "blaks",
+            "email": "blaksmatic@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.1"
+    }
+}

@@ -1,0 +1,47 @@
+<div ng-controller="detailController">
+    <div class="row text-center ">
+        <div class="small-centered columns small-6 medium-8 ">
+            <a href="#/detail/{{id - 1}}">
+                <button class="button hvr-round-corners" ng-show="rank != 1">Previous</button>
+            </a>
+            <a href="#/detail/{{id + 1}}">
+                <button class="button hvr-round-corners ">Next</button>
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="small-centered columns small-12 medium-8 ">
+            <h4>File name: {{this_assignment.name}}</h4>
+            <h4>File type: {{this_assignment.kind}}</h4>
+            <h4>Final Submission: {{this_assignment.last_date}}</h4>
+            <h4>Final Version: {{this_assignment.last_revision}}</h4>
+            <h4>Previous submission: </h4>
+            <ul ng-repeat="history in this_assignment.commit_history">
+                <li><h5>Revision Number: {{history.revision_number}}</h5></li>
+                <li><h5>Submittion Date: {{history.date}}</h5></li>
+                <li><h5>Submission Message: {{history.message}}</h5></li>
+            </ul>
+            <a href="https://subversion.ews.illinois.edu/svn/sp16-cs242/yzeng19/{{this_assignment.name}}"><h4>File in
+                subversion</h4></a>
+            <h4>Comments:</h4>
+            <ul ng-repeat="comme in this_assignment.comments track by $index">
+                <li><h5>{{$index+1+" "}} {{comme.comment}}</h5> <h6 style="color: lightblue"
+                                                                    ng-show="comme.target != 0">
+                    A reply to {{comme.target}}</h6></li>
+            </ul>
+        </div>
+    </div>
+
+    <form novalidate class="small-centered small-12 medium-8">
+        <input type="text" name="input" ng-model="current_comment">
+        <!-- The method for submitting the data goes on the button. -->
+        <!-- The name is passed to the method you want to use to store the data, which you make happen when the button is clicked by using the ngClick directive. -->
+        <button class="button" ng-click="save_comments()">ADD COMMENTS</button>
+    </form>
+
+    <div class="row">
+        <p class="small-10 small-centered">
+            <pre>{{Code_Data}}</pre>
+        </p>
+    </div>
+</div>

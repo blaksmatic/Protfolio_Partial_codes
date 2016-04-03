@@ -1,0 +1,83 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 18, ../../sass/screen.scss */
+body {
+  background: url("../media/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #fefefe;
+}
+
+/* line 24, ../../sass/screen.scss */
+.button {
+  font-family: Oswald, sans-serif;
+  font-weight: 400;
+}
+
+/* line 29, ../../sass/screen.scss */
+.fullWidth {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: initial;
+}
+
+/* line 36, ../../sass/screen.scss */
+.Oswald_type {
+  font-family: Oswald, sans-serif;
+}
+
+/* line 40, ../../sass/screen.scss */
+.blur {
+  -webkit-filter: blur(0.7px);
+  filter: blur(0.7px);
+}
+
+/* line 44, ../../sass/screen.scss */
+.assignment_list {
+  font-size: 10pt;
+}
+
+/* line 48, ../../sass/screen.scss */
+.ng-binding {
+  margin-bottom: 0;
+}
+
+/* line 52, ../../sass/screen.scss */
+.navbar_desktop {
+  position: fixed;
+}
+
+/* line 56, ../../sass/screen.scss */
+.media-object {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* line 61, ../../sass/screen.scss */
+#About {
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
+
+#nav {
+  margin-bottom: 10%;
+}
+
+/* line 66, ../../sass/screen.scss */
+.project {
+  margin-bottom: 5%;
+}
+
+/* line 70, ../../sass/screen.scss */
+a {
+  font-size: 17px;
+  color: lightcyan;
+}
+
+/* line 75, ../../sass/screen.scss */
+.small_head {
+  font-size: 25px;
+  font-weight: 300;
+}

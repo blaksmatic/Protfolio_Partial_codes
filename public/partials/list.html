@@ -1,0 +1,29 @@
+<div ng-controller="mainController">
+    <div class="row text-center labels">
+        <div class="small-12">
+            <a href="#/assignment/All" class="button hvr-round-corners" ng-click="assignment = 'All'">All</a>
+            <a href="#/assignment/Assignment1.0" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment1.0'">Assignment1.0</a>
+            <a href="#/assignment/Assignment1.1" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment1.1'">Assignment1.1</a>
+            <a href="#/assignment/Assignment1.2" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment1.2'">Assignment1.2</a>
+            <a href="#/assignment/Assignment2.0" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment2.0'">Assignment2.0</a>
+            <a href="#/assignment/Assignment2.1" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment2.1'">Assignment2.1</a>
+            <a href="#/assignment/Assignment3.0" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment3.0'">Assignment3.0</a>
+            <a href="#/assignment/Assignment3.1" class="button hvr-round-corners"
+               ng-click="assignment = 'Assignment3.1'">Assignment3.1</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns small-6"
+             ng-repeat="assign in assignment_filter track by $index">
+            <a href="#/detail/{{assign.id}}">
+                {{assign.name}}
+            </a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+<div ng-controller="mainController">
+    <div class="row">
+        <h1>This page has all the coursework for CS242</h1>
+        <div class="small-12 medium-4">
+            <ul class="vertical menu" data-accordion-menu>
+                <li>
+                    <a href="" id="Assignment1_2" class="small_head hvr-grow">Assignment 1.2</a>
+                    <ul class="menu vertical nested small-12">
+                        <li ng-repeat="assign in assignment1_2">
+                            <div>
+                                <p><a href = "#/detail/{{assign.id}}" data-open="modal1" class="hvr-grow">{{assign.name}}</a></p>
+
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<?php
+/**
+ * Created by PhpStorm.
+ * User: admin
+ * Date: 3/13/16
+ * Time: 8:41 PM
+ */
+?>
+

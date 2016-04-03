@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./css/foundation.css"/>
+    <link href="./css/hover.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/screen.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/print.css" rel="stylesheet" type="text/css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.min.js "></script>
+    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/controller.js"></script>
+    <title>Blaks's Protofolio</title>
+</head>
+
+<body ng-app="mainApp">
+<div ng-controller="mainController">
+
+
+    <div id="About" class="text-center oswald_type small-12">
+        <h1>Welcome to Blaks's Portfolio page for CS242</h1>
+        <h4>
+            Hello, I am Blaks, and this site is currently under construction.
+        </h4>
+        <h4>
+            Come by next week and you will find something amazing.
+        </h4><h4> You can check all the codes I have written for these projects.</h4>
+    </div>
+    <div id="nav" class="text-center oswald_type small-12">
+        <a href="#/assignment" class="button hollow success large"> Assignments</a>
+        <a href="#/home" class="button hollow success large">Home</a>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="small-12">
+        <div ng-view></div>
+    </div>
+</div>
+
+<script src="./js/vendor/jquery.min.js"></script>
+<script src="./js/vendor/what-input.min.js"></script>
+<script src="./js/foundation.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+</body>
+</html>
+
+
